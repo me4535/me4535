@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Recoilless rifle](https://github.com/me4535/Projectile-motion-with-darg)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Telegram : 0946863831 or Email : quangtran102005@gmail.com</h3>
 <p align="left">
 </p>
 
