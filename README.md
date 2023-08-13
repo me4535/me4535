@@ -7,11 +7,11 @@
 
 - 🔭 Learn more.
 
-- 🔭 Make an AESA radar ( when i have more money and knowledge )
+- 🔭 Make an AESA radar ( when i have more money and knowledge ) [started]
 
 - 🔭 Make an infrared homming missle ( when i have more money :( infrared sensor is too expensive for me now! )
 
-- 🔭 Make an Active protection system ( when i have more money and knowledge )
+- 🔭 Make an Active protection system ( when i have more money and knowledge ) [started]
 
 <h3 align="left">Connect with me:Telegram : 0946863831 or Email : quangtran102005@gmail.com</h3>
 <p align="left">
