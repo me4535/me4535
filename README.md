@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Quang Minh</h1>
-<h3 align="center">high school student who graduated from "Pedagogical Practice High School".</h3>
+<h3 align="center">Studying at FPT University.</h3>
 
 - 🔭 I’m currently working on [Recoilless rifle](https://github.com/me4535/Projectile-motion-with-darg)
 
